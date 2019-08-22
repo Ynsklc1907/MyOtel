@@ -1,0 +1,36 @@
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\bin\Debug\MyOtel.exe.config
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\bin\Debug\MyOtel.exe
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\bin\Debug\MyOtel.pdb
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.AddCustomer.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.AddPersonel.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.AddRoom.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.CustomersForm.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.Form1.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.PersonelForm.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.Properties.Resources.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.RoomForm.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.AddRoomRecord.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.RoomRecordsForm.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.exe
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.pdb
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\bin\Debug\MyOtel.exe.config
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\bin\Debug\MyOtel.exe
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\bin\Debug\MyOtel.pdb
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.AddCustomer.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.AddPersonel.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.AddRoom.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.CustomersForm.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.Form1.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.PersonelForm.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.RoomForm.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.AddRoomRecord.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.RoomRecordsForm.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.exe
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\MyOtel\obj\Debug\MyOtel.pdb
